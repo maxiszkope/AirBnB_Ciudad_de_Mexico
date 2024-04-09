@@ -66,6 +66,35 @@ Dentro de esta página, encontrarás una lista de ciudades donde Airbnb está di
                 Enlaces: HTML :"<iframe title="ciudad_de_mexico_airbnb" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTg1NmQ1MjQtYTM0NS00NzgxLWFkZjQtZmMwY2ZkYmYwOWJlIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>"
                          URL: "https://app.powerbi.com/view?r=eyJrIjoiZTg1NmQ1MjQtYTM0NS00NzgxLWFkZjQtZmMwY2ZkYmYwOWJlIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9"
 
+
+
+
+Para ejecutar tu aplicación `streamlit.py` desde la terminal, sigue estos pasos:
+
+1. Abre una terminal o línea de comandos en tu sistema operativo.
+
+2. Navega hasta el directorio donde se encuentra tu archivo `streamlit.py` utilizando el comando `cd`. Por ejemplo, si tu archivo está en el directorio `proyecto_airbnb`, puedes escribir:
+
+   ```bash
+   cd ruta/al/directorio/proyecto_airbnb
+   ```
+
+3. Una vez en el directorio correcto, ejecuta el siguiente comando para iniciar la aplicación Streamlit:
+
+   ```bash
+   streamlit run streamlit.py
+   ```
+
+   Este comando le dice a Streamlit que ejecute el archivo `streamlit.py`.
+
+4. Después de ejecutar el comando, deberías ver un mensaje indicando que la aplicación se está ejecutando localmente, y te proporcionará un enlace URL (por lo general, `http://localhost:8501`). Abre este enlace en tu navegador web para ver tu aplicación Streamlit en acción.
+
+Asegúrate de tener instalado Streamlit en tu entorno Python antes de ejecutar este comando. Puedes instalarlo utilizando pip:
+
+```bash
+pip install streamlit
+```
+
   
 ¡Espero que encuentres útil este proyecto y los insights proporcionados! Si tienes alguna pregunta o sugerencia, ¡no dudes en contactarme!
 ```

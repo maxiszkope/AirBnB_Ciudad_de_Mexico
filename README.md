@@ -1,6 +1,6 @@
 # AirBnB_Ciudad_de_Mexico
  Exploración del alojamiento en Ciudad de Mexico a través de AirBnB.
-
+![Ejemplo de imagen](ejemplo.png)
 
 ## Descripción
 Como parte de mi transición profesional a Data Analyst, estoy realizando una serie de proyectos en los que pongo en práctica las habilidades y técnicas de análisis de datos adquiridas 📊
@@ -63,6 +63,9 @@ Dentro de esta página, encontrarás una lista de ciudades donde Airbnb está di
 - Jupyter Notebook con el procesamiento de datos.
 - Aplicación Python para la predicción del precio por noche en euros.
 - Paneles interactivos de Power BI.
+                Enlaces: HTML :"<iframe title="ciudad_de_mexico_airbnb" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTg1NmQ1MjQtYTM0NS00NzgxLWFkZjQtZmMwY2ZkYmYwOWJlIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>"
+                         URL: "https://app.powerbi.com/view?r=eyJrIjoiZTg1NmQ1MjQtYTM0NS00NzgxLWFkZjQtZmMwY2ZkYmYwOWJlIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9"
 
+  
 ¡Espero que encuentres útil este proyecto y los insights proporcionados! Si tienes alguna pregunta o sugerencia, ¡no dudes en contactarme!
 ```

@@ -1,10 +1,10 @@
 # AirBnB_Ciudad_de_Mexico
  Exploración del alojamiento en Ciudad de Mexico a través de AirBnB.
-![](1.png)
-![](2.png)
-![](3.png)
-![](4.png)
-![](5.png)
+![](1.PNG)
+![](2.PNG)
+![](3.PNG)
+![](4.PNG)
+![](5.PNG)
 
 ## Descripción
 Como parte de mi transición profesional a Data Analyst, estoy realizando una serie de proyectos en los que pongo en práctica las habilidades y técnicas de análisis de datos adquiridas 📊
